@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.box{
+    height: 1024px;
+    background-image: url(./img/image\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 30px 0;
+}
+header div{
+      display: flex;
+      align-items: center;
+      gap: 60px;
+}
+
+.btn{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23.44px;
+        color: white;
+        background: #009FF5B5;
+        box-shadow: 0px 4px 4px 0px #DAD3FF;
+        border: none;
+    padding: 9px 19px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+h1{
+    padding: 30px 49px;
+width: 654px;
+height: 103px;
+background: #FFC611;
+border: 11px solid #5A5555;
+border-radius: 50px;
+text-align: center;
+text-shadow: 0px 4px 4px  #0047FF;
+margin: 130px auto;
+}
+
+.card{
+    width: 361px;
+     height: 420px;
+     background: #1F1F1F;
+   text-align: center;
+   box-shadow: 8px 7px 20px 0px #FFFFFF;
+
+}
+.card h2{
+font-weight: 600;
+font-size: 36px;
+line-height: 42.19px;
+letter-spacing: 10px;
+text-shadow: 0px 4px 4px  #FFC200;
+
+}
+
+.ota{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    background-color: black;
+  padding: 61px 0;
+}
+
+
+
+.info h2{
+font-weight: 600;
+font-size: 64px;
+line-height: 75px;
+color: #5A5555;
+text-shadow: 0px 4px 4px  #FFFFFF;
+text-align: center;
+margin-bottom: 50px;
+}
+
+ .info-ota{
+    display: flex;
+    gap: 87px;
+  margin-bottom: 60px;
+ }
+
+.info-ota p{
+font-weight: 600;
+font-size: 27px;
+line-height: 31.64px;
+color: white;
+}
+
+.btn2{
+font-weight: 700;
+font-size: 27px;
+line-height: 31.64px;
+color: black;
+background: #FFC200;
+box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+text-shadow: 0px 4px 4px  #040404CF;
+width: 278px;
+height: 61px;
+border: none;
+margin-top: 50px;
+transition: 1.5s;
+}
+ 
+ .btn2:hover{
+    background: #535353;
+  color: #FFFFFF;
+
+ }
+
+
+footer{
+    background: #FFC611;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 158px;
+}
+
+.ikon{
+    display: flex;
+    gap: 30px;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
